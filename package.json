@@ -1,0 +1,18 @@
+{
+    "name": "@pieterprovoost/wkx",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "exports": "./index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pieterprovoost/wkx.git"
+    },
+    "scripts": {
+        "test": "mocha test/*.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "buffer": "^6.0.3"
+    }
+}
